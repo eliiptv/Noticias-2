@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS FHD
+http://painel.ebanonet.com.br:25461/carina/carina/11536
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS HD
+http://painel.ebanonet.com.br:25461/carina/carina/10296
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD
+http://painel.ebanonet.com.br:25461/carina/carina/4399
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD*
+http://painel.ebanonet.com.br:25461/carina/carina/20869
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/fn-logo.png" group-title="CANAIS NOTICIAS",FOX NEWS SD
+http://painel.ebanonet.com.br:25461/carina/carina/6835
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS FHD
+http://painel.ebanonet.com.br:25461/carina/carina/25010
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS HD
+http://painel.ebanonet.com.br:25461/carina/carina/7442
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS HD*
+http://painel.ebanonet.com.br:25461/carina/carina/11043
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="CANAIS NOTICIAS",GLOBO NEWS SD
+http://painel.ebanonet.com.br:25461/carina/carina/4432
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png" group-title="LISTA ALTERNATIVA (TODOS OS CANAIS)",GLOBO NEWS SD*
+http://painel.ebanonet.com.br:25461/carina/carina/11243
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO INTERNACIONAL SD
+http://painel.ebanonet.com.br:25461/carina/carina/24928
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS NOTICIAS",NHK HD
+http://painel.ebanonet.com.br:25461/carina/carina/4347
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nhkworld.png" group-title="CANAIS NOTICIAS",NHK SD
+http://painel.ebanonet.com.br:25461/carina/carina/6949
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS NOTICIAS",RECORD NEWS HD
+http://painel.ebanonet.com.br:25461/carina/carina/10255
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS NOTICIAS",RECORD NEWS SD
+http://painel.ebanonet.com.br:25461/carina/carina/6941
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png" group-title="CANAIS RECORD",RECORD NEWS SD*
+http://painel.ebanonet.com.br:25461/carina/carina/20557
