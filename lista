@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BR:Band News HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="NOTICIAS",BR:Band News HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141968
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141968
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BR:Band News SD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="NOTICIAS",BR:Band News SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141969
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141969
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR:Globo News HD." tvg-logo="https://1.bp.blogspot.com/-0JPImOnJqrE/WqvTeabynrI/AAAAAAAAAcQ/uqMQkc-LkscW0Ef0oHyYcTOatMApCVhLgCLcBGAs/s1600/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="NOTICIAS",BR:Globo News HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141884
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141884
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="BR:Globo News SD." tvg-logo="https://1.bp.blogspot.com/-0JPImOnJqrE/WqvTeabynrI/AAAAAAAAAcQ/uqMQkc-LkscW0Ef0oHyYcTOatMApCVhLgCLcBGAs/s1600/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.png" group-title="NOTICIAS",BR:Globo News SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141885
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141885
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="BR:Record News HD." tvg-logo="https://1.bp.blogspot.com/-FJD2M-3zisA/WqvTwGE0x7I/AAAAAAAAAfE/U8d0UKLWafwBcZjz9FIUoOOUbt0sshutwCLcBGAs/s1600/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="NOTICIAS",BR:Record News HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141789
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141789
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="BR:Record News SD." tvg-logo="https://1.bp.blogspot.com/-FJD2M-3zisA/WqvTwGE0x7I/AAAAAAAAAfE/U8d0UKLWafwBcZjz9FIUoOOUbt0sshutwCLcBGAs/s1600/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.png" group-title="NOTICIAS",BR:Record News SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141790
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141790
