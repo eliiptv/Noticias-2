@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name=".Band News HD" tvg-logo="https://3.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5kk/Zg5P_D_zyegJMxeti8bJn4ejED6_DtqQwCLcB/s1600/123fv.png" group-title="JORNALISMO",.Band News HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3913
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3913
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name=".Band News SD" tvg-logo="https://3.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5kk/Zg5P_D_zyegJMxeti8bJn4ejED6_DtqQwCLcB/s1600/123fv.png" group-title="JORNALISMO",.Band News SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3912
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3912
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name=".Globo News HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/832/full/Globo_News_2008.png" group-title="JORNALISMO",.Globo News HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3833
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3833
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name=".Globo News SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/832/full/Globo_News_2008.png" group-title="JORNALISMO",.Globo News SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3832
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/mau/mau/3832
